@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Kaushalya Website template", ".", "{7C793334-9801-4569-98E7-81621F45FA72}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Kaushalya Website template"
+		Debug.AspNetCompiler.PhysicalPath = "..\Kaushalya Website template\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Kaushalya Website template\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Kaushalya Website template"
+		Release.AspNetCompiler.PhysicalPath = "..\Kaushalya Website template\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Kaushalya Website template\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59711"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C793334-9801-4569-98E7-81621F45FA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C793334-9801-4569-98E7-81621F45FA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
